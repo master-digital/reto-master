@@ -177,10 +177,7 @@ button:focus {
   display: flex;
   flex-direction: column;
   
-  background-image: url(imgs/bg-reto-master.jpg);
-  background-position: bottom;
-  background-repeat: no-repeat;
-  background-size: cover;
+  
   
   
   
