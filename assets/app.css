@@ -177,7 +177,7 @@ button:focus {
   display: flex;
   flex-direction: column;
   
-  
+  background-color: black;
   
   
   
@@ -334,7 +334,7 @@ button:focus {
   }
 
   .hero__paragraph {
-    font-size: 1rem;
+    font-size: 1.5rem;
     width: 100%;
   }
 }
